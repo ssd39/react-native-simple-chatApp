@@ -4,4 +4,4 @@ Simple chat application using react-native. Built from scratch using flatList an
 To run app:
 replace [YOUR FIREBASE API KEY],[YOUR APP ID] with your's..
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot" />
+![Image description]
