@@ -18,9 +18,9 @@ console.disableYellowBox = true;
 var firebase = require("firebase");
 
 var config = {
-  apiKey: " AIzaSyDE-c3HQSoyTMmPveIb-QE51jBx_nrDd-s ",
-  authDomain: "reactchat-1d263.firebaseapp.com",
-  databaseURL: "https://reactchat-1d263.firebaseio.com",
+  apiKey: "[YOUR FIREBASE API KEY]",
+  authDomain: "[FIREBASE APP ID].firebaseapp.com",
+  databaseURL: "https://[FIREBASE APP ID].firebaseio.com",
   storageBucket: "bucket.appspot.com"
 };
 
